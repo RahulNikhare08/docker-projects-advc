@@ -1,0 +1,5 @@
+# Large binary files
+*.zip
+q/bin/q
+q/bin/qchat
+q/bin/qterm
